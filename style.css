@@ -24,5 +24,6 @@ body {
     padding: 0;    }
 
     .container__bota{
-        background-color: var(--botao-azul)
-        }
+         background-color: var(--botao-azul );
+        border-radius: 5px; 
+    }
