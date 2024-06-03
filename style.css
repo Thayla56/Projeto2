@@ -23,7 +23,7 @@ body {
              margin: 0;
              padding: 0;    
            
-            display:grid;}
+           
 
 
     .site{
@@ -33,5 +33,5 @@ body {
         padding: 1em;
         color: var(--branco-principal);
         display: block;
-    
+     display:grid;}
     }
