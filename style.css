@@ -26,4 +26,6 @@ body {
     .site{
          background-color: var(--botao-azul );
         border-radius: 5px; 
+        border-radius: 5px;
+        padding: 1em;
     }
