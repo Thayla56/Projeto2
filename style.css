@@ -27,6 +27,6 @@ body {
          background-color: var(--botao-azul );
         border-radius: 5px; 
         border-radius: 5px;
-        padding: 2em;
+        padding: 4em;
         color: var(--branco-principal);
     }
