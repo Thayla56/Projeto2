@@ -21,7 +21,10 @@ body {
         .container {
             height: 100vh; 
              margin: 0;
-    padding: 0;    }
+             padding: 0;    
+            height: 100vh;
+            display:grid;}
+
 
     .site{
          background-color: var(--botao-azul );
