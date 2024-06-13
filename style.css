@@ -18,10 +18,11 @@ body {
         background-repeat: no-repeat;
        
     }
-        .container {
-            height: 100vh; 
-               
-            display:grid;}
+    .container {
+        height: 100vh;
+        display: grid;
+    }
+    
 
 
     .site{
